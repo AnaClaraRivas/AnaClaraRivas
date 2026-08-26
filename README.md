@@ -1,9 +1,13 @@
-# Ana Clara Bronzeri Rivas ♡
-Estudante de **Informática para Internet** na Etec MCM.
-<br>
-### `♡` Tecnologias
-<img src="https://skillicons.dev/icons?i=html,css,js,python,git,github&perline=6" width="210">
+Ana Clara Bronzeri Rivas ♡
 
-### `♡` Interesses
-🎭 Teatro   •   🎨 Arte   •   💻 Tecnologia   •   🤖 Inteligência Artificial
+Estudante de Informática para Internet na Etec MCM.
+Interessada em tecnologia, programação e Inteligência Artificial e apaixonada por arte e teatro.
+
+♡ Tecnologias
+
+<img src="https://skillicons.dev/icons?i=html,css,python,php,js,bootstrap,react&perline=7" width="245">
+
+♡ Interesses
+
+🎭 Teatro   •   🎨 Arte   •   💻 Tecnologia   •   🤖 Inteligência Artificial
 
