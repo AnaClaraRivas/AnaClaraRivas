@@ -1,19 +1,16 @@
-<div align="center">
+# Oii! Ana Clara Bronzeri Rivas aqui ♡
 
-Oii! Ana Clara Bronzeri Rivas aqui
+🎓 Estudante de **Informática para Internet** na Etec MCM.
+💻 Interessada em **tecnologia, programação e Inteligência Artificial**.
+🎨 Apaixonada por **arte e teatro**.
 
-Estudante de Informática para Internet na Etec MCM.
-Interessada em tecnologia, programação e Inteligência Artificial.
-Apaixonada por arte.
+<br>
 
-<img src="SEU-GIF-AQUI" width="400">
+### `♡` Tecnologias
 
-Tecnologias
+<img src="https://skillicons.dev/icons?i=html,css,js,python,git,github&perline=6" width="210">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,git,github" />
+### `♡` Interesses
 
-Interesses
+🎭 Teatro   •   🎨 Arte   •   💻 Tecnologia   •   🤖 Inteligência Artificial
 
-🎭 Teatro • 🎨 Arte • 💻 Tecnologia • 🤖 Inteligência Artificial
-
-</div>
