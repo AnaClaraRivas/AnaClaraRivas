@@ -1,16 +1,19 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**AnaClaraRivas/AnaClaraRivas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Oii! Ana Clara Bronzeri Rivas aqui
 
-Here are some ideas to get you started:
+Estudante de Informática para Internet na Etec MCM.
+Interessada em tecnologia, programação e Inteligência Artificial.
+Apaixonada por arte.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="SEU-GIF-AQUI" width="400">
+
+Tecnologias
+
+<img src="https://skillicons.dev/icons?i=html,css,js,python,git,github" />
+
+Interesses
+
+🎭 Teatro • 🎨 Arte • 💻 Tecnologia • 🤖 Inteligência Artificial
+
+</div>
